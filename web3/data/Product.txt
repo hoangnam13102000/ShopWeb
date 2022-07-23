@@ -1,0 +1,8 @@
+public/upload/file_1653447292.2183.jpg|1341|Điện thoại|Oppo A15s|Oppo|16000000|1|1
+public/upload/file_1653448336.0004.jpg|2323|Phụ kiện|Tai nghe JBL|Samsung|200000|1|1
+public/upload/file_1653463939.6649.jpg|1342|Phụ kiện|Tai Bluetooth|Samsung|500000|0|0
+public/upload/file_1653472102.8004.jpg|2324|Điện thoại|Nokia 5.4|Nokia|6000000|1|0
+public/upload/file_1653562073.5159.jpg|1345|Điện thoại|Xiaomi Readme 10|Xiaomi|16000000|1|0
+public/upload/file_1653571391.3134.jpg|1317|Phụ kiện|Sạc Energizer0|Samsung|250000|1|1
+public/upload/file_1653897612.9167.jpg|3132|Điện thoại|iphone X3|Apple|12000000|1|1
+public/upload/file_1654607793.5897.jpg|1777|Điện thoại|Z-Flip|Samsung|16000000|1|1

@@ -1,0 +1,4 @@
+dung|HCM|087523123|admin@husol.org|18800000
+minh|HCM|123|admin@husol.org|16200000
+Viet|HN|123|admin@husol.org|96000000
+nam1|HCM|123|admin@husol.org|16000000

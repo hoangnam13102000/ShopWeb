@@ -1,0 +1,4 @@
+public/upload/file_1653636307.6027.jpg|admin14|131|bé Heo|HCM|admin@husol.org|1|Admin
+public/upload/file_1653645132.1937.png|admin2|1344|Con chim to|HCM|admin@husol.org|Khóa|Customer
+public/upload/file_1653636241.4026.jpg|admin12|123|Bé Bò|HCM|ttt|1|Admin
+public/upload/file_1653644542.4859.jpg|User1|123|Nuôi tốn cơm|HN|admin@husol.org|1|Customer
